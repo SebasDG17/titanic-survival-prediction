@@ -126,3 +126,6 @@ https://github.com/SebasDG17
 
 LinkedIn:
 https://www.linkedin.com/in/sebastiandiaz17082004
+
+Email:
+sebasstiandiaz01@gmail.com
